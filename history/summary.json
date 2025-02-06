@@ -22,17 +22,19 @@
     "url": "https://jubla.puzzle.ch",
     "icon": "https://icons.duckduckgo.com/ip3/jubla.puzzle.ch.ico",
     "slug": "stage-und-test-datenbank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 1030,
-    "timeWeek": 828,
-    "timeMonth": 828,
-    "timeYear": 828,
-    "dailyMinutesDown": {}
+    "time": 775,
+    "timeDay": 770,
+    "timeWeek": 775,
+    "timeMonth": 775,
+    "timeYear": 775,
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   }
 ]
