@@ -1,7 +1,7 @@
 url: https://jubla.puzzle.ch
-status: up
-code: 200
-responseTime: 1077
-lastUpdated: 2025-11-23T23:16:25.316Z
+status: down
+code: 503
+responseTime: 621
+lastUpdated: 2025-11-24T18:26:35.888Z
 startTime: 2025-02-04T14:54:10.687Z
 generator: Upptime <https://github.com/upptime/upptime>
