@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1107,
-    "timeDay": 1251,
-    "timeWeek": 1106,
-    "timeMonth": 1135,
-    "timeYear": 1118,
+    "timeDay": 1101,
+    "timeWeek": 1077,
+    "timeMonth": 1124,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2026-02-15": 23,
       "2025-10-31": 16,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jubla.puzzle.ch.ico",
     "slug": "stage-und-test-datenbank",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 835,
-    "timeDay": 858,
-    "timeWeek": 852,
-    "timeMonth": 894,
+    "timeDay": 900,
+    "timeWeek": 853,
+    "timeMonth": 886,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2026-02-15": 23,
@@ -44,8 +44,7 @@
       "2025-08-28": 18,
       "2025-07-28": 23,
       "2025-06-23": 25,
-      "2025-05-26": 39,
-      "2025-03-10": 387
+      "2025-05-26": 39
     }
   }
 ]
